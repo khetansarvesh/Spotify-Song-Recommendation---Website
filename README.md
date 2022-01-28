@@ -1,6 +1,6 @@
 # Spotify-Song-Recommender - WebApp
 
-A simple app the recommends five songs along with their spotify links based on a given artists as inputs
+A simple app that recommends five songs along with their spotify links based on a given artists as inputs. [Link to the website]
 
 On the front-end,
 - public/index.html contains the content of the webpage
@@ -11,4 +11,3 @@ On the back-end,
 - your app starts at server.js
 - add frameworks and packages in package.json
 - safely store app secrets in .env (nobody can see this but you and people you invite)
-- Click Show in the header to see your app live. Updates to your code will instantly deploy.
