@@ -1,11 +1,11 @@
 # Spotify-Song-Recommender - WebApp
 
-A simple app that recommends five songs along with their spotify links based on a given artists as inputs. [Link to the website]
+A simple app that recommends five songs along with their spotify links based on a given artists as inputs. [Link to the website - https://everlasting-stingy-cosmonaut.glitch.me/]
 
 On the front-end,
-- public/index.html contains the content of the webpage
-- public/script.js is the javacript that runs when you load the webpage
-- public/style.css is the styles for public/index.html
+- index.html contains the content of the webpage
+- script.js is the javacript that runs when you load the webpage
+- style.css is the styles for public/index.html
 
 On the back-end,
 - your app starts at server.js
